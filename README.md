@@ -2,7 +2,6 @@
 
 Load test of the **DNCC e-Revenue** login journey (unlock user → login form → dropdown selection → credentials → OTP → dashboard), written with [Locust](https://locust.io/).
 
-> ⚠️ Run this only against systems you are authorized to test. Never commit real usernames, passwords, OTPs or tokens to this repository.
 
 ## Test Summary
 
