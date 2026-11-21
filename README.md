@@ -36,16 +36,6 @@ The goal of this project is to check how the DNCC e-Revenue web application beha
 - Interactive Web UI mode and headless mode for scripts and CI
 - Self-contained HTML report generated after every run
 
-## Project Structure
-
-```
-.
-├── locustfile.py            # Locust test scenario (DNCCUser -> login task)
-├── docs/
-│   ├── report.html          # Original Locust HTML report (open in a browser)
-│   └── screenshots/         # Screenshots used in this README
-└── README.md
-```
 
 ## Prerequisites
 
