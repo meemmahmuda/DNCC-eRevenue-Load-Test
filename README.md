@@ -6,8 +6,6 @@
 
 A [Locust](https://locust.io/) load-testing project that simulates the complete **DNCC e-Revenue** user login journey (unlock user → login form → dropdown selection → credentials → OTP → dashboard) and measures response time, throughput and failures.
 
-> ⚠️ **Disclaimer:** Run this only against systems you are authorized to test, and keep the load low on production systems. Never commit real usernames, passwords, OTPs, cookies or tokens to this repository.
-
 ## Table of Contents
 
 - [About the Project](#about-the-project)
