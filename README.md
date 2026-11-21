@@ -86,7 +86,6 @@ locust -f locustfile.py --host https://erevenue.dncc.gov.bd \
        --headless -u 10 -r 1 -t 30s --html docs/report.html
 ```
 
-Put credentials in environment variables or a git-ignored file (for example `.env`), not in the code.
 
 ## Test Scenario
 
