@@ -48,8 +48,8 @@ The goal of this project is to check how the DNCC e-Revenue web application beha
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/meemmahmuda/DNCC-eRevenue-Load-Test.git
+cd DNCC-eRevenue-Load-Test
 
 # 2. (Recommended) create and activate a virtual environment
 python -m venv venv
