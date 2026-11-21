@@ -68,22 +68,6 @@ pip install locust
 | Spawn rate | about 1 user/second |
 | Run time | 30 seconds |
 
-Keep credentials out of the code. Store them in environment variables or a git-ignored `.env` file:
-
-```bash
-export TEST_USERNAME="your-test-user"
-export TEST_PASSWORD="your-test-password"
-```
-
-Add this to `.gitignore`:
-
-```
-.env
-venv/
-__pycache__/
-```
-
-> Update the variable names above to match what `locustfile.py` actually reads.
 
 ## Running the Test
 
