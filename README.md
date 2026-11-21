@@ -98,9 +98,3 @@ Each virtual user (`DNCCUser`) runs one `login` task with these steps in order:
 5. Open OTP page
 6. Verify OTP
 7. Access dashboard
-
-## Next Steps
-
-- Use a unique account per virtual user to remove session collisions.
-- Increase users and duration gradually (for example 10 → 50 → 100) to find the breaking point.
-- Re-run after the session issue is fixed and compare against this baseline.
