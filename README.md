@@ -153,7 +153,7 @@ Each virtual user (`DNCCUser`) runs one `login` task, with the steps executed in
 ![Request statistics](locust/request-statistics.png)
 
 ### Response time statistics
-![Response time statistics](docs/screenshots/02-response-time-statistics.png)
+![Response time statistics](locust/response-time-statistics.png)
 
 ### Failures
 ![Failures statistics](docs/screenshots/03-failures-statistics.png)
